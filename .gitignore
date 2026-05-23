@@ -1,0 +1,35 @@
+# 数据文件 — 不上传
+w/
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# 模型输出
+models/rvc/*.pth
+models/rvc/*.index
+models/rvc/*.wav
+models/rvc/logs/
+
+# UVR5 中间产物
+*.m4s
+*.m4a.tmp
+
+# IDE
+.vscode/
+.idea/
+
+# 系统
+Thumbs.db
+Desktop.ini
+
+# 输出成品
+output/*.mp4
+output/*.wav
+output/*.mp3
+output/*.flac
