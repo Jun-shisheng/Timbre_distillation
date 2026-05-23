@@ -1,3 +1,6 @@
+# 敏感文件
+tools/bili_cookies.txt
+
 # 数据文件 — 不上传
 w/
 data/
